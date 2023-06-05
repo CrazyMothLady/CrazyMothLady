@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrazyMothLady
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Zimjs, Createjs
 - 
 <!---
 CrazyMothLady/CrazyMothLady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
